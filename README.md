@@ -5,7 +5,7 @@
   * [Future Improvements](#future-improvements)
   
 ## Objective
- * Create a script that enters timed recuring message on discord to farm gold, exp, and materials
+ * Create a script that enters timed recuring message on webpage to farm gold, exp, and materials
  * Learn how to use Selenium to automate web testing applications
 
 ## Dependences
@@ -20,6 +20,4 @@
 
 ## Future Improvements
  * When getting lootbox from hunt, triggers "rpg open"
- * If EPIC GUARD shows up, disable epic guard and repost command
- * If special event happens, Having bot be able to respond
-# epic-test-bot
+ * Respond to special events, such as enemy ambushes and surprise loots
