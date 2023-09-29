@@ -3,10 +3,13 @@
   * [Dependences](#dependences)
   * [Usage](#usage)
   * [Future Improvements](#future-improvements)
-  
+
+This project was originally created in March 2020 and reposted without personal personal information.
+
 ## Objective
- * Create a script that enters timed recuring message on webpage to farm gold, exp, and materials in virtual text game
  * Learn how to use Selenium to automate web testing applications
+ * Compete in a friendly virtual text game with friends
+ * Create a script that enters timed recuring message on webpage to farm gold, exp, and materials
 
 ## Dependences
  * Python version 3.7.7
