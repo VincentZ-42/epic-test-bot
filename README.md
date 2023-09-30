@@ -4,7 +4,7 @@
   * [Usage](#usage)
   * [Future Improvements](#future-improvements)
 
-This project was originally created in March 2020 and reposted without personal personal information.
+This project was originally created in March 2020 and reposted without personal information.
 
 ## Objective
  * Learn how to use Selenium to automate web testing applications
